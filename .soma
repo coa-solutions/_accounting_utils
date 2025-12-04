@@ -1,0 +1,3 @@
+org: coa-solutions
+type: plexus
+description: Parse accounting periods and date ranges
